@@ -23,8 +23,11 @@ $ python3 Bluetooth-DOS-Attack.py
 
 ```
 $ sudo apt update
+
 $ apt install hcitool
+
 $ sudo service bluetooth start
+
 $ hcitool scan
 ```
 <p>Output will be like:</p>
